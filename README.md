@@ -18,7 +18,7 @@ Realização do desafio proposto pela DIO para trabalhar os principais pontos re
 ![image desc](./figures/figure5.png)
 
 ## 6. Escolher a opção "Classify text" e, então, selecionar "Analyze sentiment and mine opinions"
-![image desc](./figures/figure6.PNG)
+![image desc](./figures/figure6.png)
 
 ## 7. Use um dos exemplos para realizar as análises
 ![image desc](./figures/figure7.png)
