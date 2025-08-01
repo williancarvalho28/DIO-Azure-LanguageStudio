@@ -3,10 +3,10 @@ Realização do desafio proposto pela DIO para trabalhar os principais pontos re
 
 ## Passo a passo:
 ## 1. Criar um recurso
-![image desc](figures/figure1.png)
+![image desc](./figures/figure1.png)
 
 ## 2. Selecionar "Serviço de Linguagem"
-![image desc](.\figures\figure2.png)
+![image desc](./figures/figure2.png)
 
 ## 3. Preencher os dados e selecionar (Examinar + criar)
 ![image desc](.\figures\figure3.png)
