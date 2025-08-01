@@ -9,25 +9,25 @@ Realização do desafio proposto pela DIO para trabalhar os principais pontos re
 ![image desc](./figures/figure2.png)
 
 ## 3. Preencher os dados e selecionar (Examinar + criar)
-![image desc](.\figures\figure3.png)
+![image desc](./figures/figure3.png)
 
 ## 4. Selecionar "Criar"
-![image desc](.\figures\figure4.png)
+![image desc](./figures/figure4.png)
 
 ## 5. Selecionar o recurso adicionado ("Idioma--Language")
-![image desc](.\figures\figure5.png)
+![image desc](./figures/figure5.png)
 
 ## 6. Escolher a opção "Classify text" e, então, selecionar "Analyze sentiment and mine opinions"
-![image desc](.\figures\figure6.PNG)
+![image desc](./figures/figure6.PNG)
 
 ## 7. Use um dos exemplos para realizar as análises
-![image desc](.\figures\figure7.png)
+![image desc](./figures/figure7.png)
 
 ## 8. Verifique os resultados
-![image desc](.\figures\figure8.png)
+![image desc](./figures/figure8.png)
 
 ## 9. Por fim, verifique as análises realizadas pela plataforma
-![image desc](.\figures\figure9.png)
+![image desc](./figures/figure9.png)
 
 ________________________________________________________________________________________________
 
